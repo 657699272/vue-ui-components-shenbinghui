@@ -1,0 +1,9 @@
+1、注册用户
+2、到已经创建的UI组件库文件下，（前提必须配置好了package.json文件，详情查资料）
+3、npm add user
+4、npm run build-bundle
+5、npm publish --access public 
+6、登录网站查看 https://www.npmjs.com/~shenbinghui
+
+
+使用创建的组件
